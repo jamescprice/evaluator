@@ -1,0 +1,2 @@
+gcc evaluator.c scanner.c parser.c
+
